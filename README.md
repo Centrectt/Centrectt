@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Centrectt.
+- 👋 Hi, I’m Minehutz.
 - 👀 I’m interested in Skript and Configuration.
 - 🌱 I’m currently learning JavaScript and C#
 - 💞️ I’m looking to collaborate on Minecraft Server projects
-- 📫 How to reach me. Discord - Centrect#3643 
-
+- 📫 How to reach me. Discord - Minehutz#0848
